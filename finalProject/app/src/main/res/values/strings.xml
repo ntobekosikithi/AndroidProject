@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">finalProject</string>
+    <string name="title_activity_menu">menu</string>
+    <string name="title_activity_movies">movies</string>
+    <string name="title_activity_popular_movies">Popular Movies</string>
+    <string name="title_activity_shows">Popular Shows</string>
+    <string name="title_activity_toprated">Top Rated</string>
+    <string name="title_activity_movies_catagory">Movies Catagory</string>
+    <string name="title_activity_best">2016</string>
+    <string name="title_activity_theathre">Movies in Theathre</string>
+    <string name="title_activity_kidsmovies">Kids Movies</string>
+    <string name="title_activity_search">Search</string>
+    <string name="title_activity_search_results">SearchResults</string>
+</resources>
